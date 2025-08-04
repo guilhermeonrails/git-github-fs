@@ -1,1 +1,11 @@
-Um texto
+Se o seu código muda sem parar,
+E versões antigas quer guardar,
+Controle de Versão é solução,
+Para evitar frustração e confusão.
+
+Com o Git, ferramenta de exímia precisão,
+Registra cada alteração, que parece até um guardião.
+Um commit você vai criar,
+Para cada passo registrar.
+
+Git Drama
