@@ -9,3 +9,5 @@ Um commit você vai criar,
 Para cada passo registrar.
 
 Git Drama
+
+O Git é muito mais fácil do que eu imaginava.
