@@ -1,25 +1,22 @@
 # Landing Page
 
-This project is a simple landing page created using HTML and inline CSS. The design focuses on aesthetics and user experience, featuring a clean layout with appealing colors and spacing.
+Este é um projeto simples de uma landing page criada com HTML e CSS inline.
 
-## Project Structure
+## Como usar
 
-```
-landing-page
-├── index.html
-└── README.md
-```
+1. Abra o arquivo `index.html` em seu navegador.
+2. Explore a página para ver o layout e o design responsivo.
 
-## How to View the Landing Page
+## Características
 
-1. Clone or download the repository to your local machine.
-2. Open the `index.html` file in your web browser.
-3. Enjoy the landing page!
+- Layout moderno e responsivo
+- Cores agradáveis e espaçamento harmonioso
+- Estrutura fácil de editar
 
-## Design Choices
+## Personalização
 
-- **Color Scheme**: The colors were chosen to create a modern and inviting look. Soft backgrounds with contrasting text colors enhance readability.
-- **Spacing**: Generous padding and margins were used to ensure that elements are well-separated, making the content easy to digest.
-- **Responsive Design**: The layout is designed to be responsive, ensuring a good experience on both desktop and mobile devices.
+Sinta-se à vontade para modificar textos, cores e seções conforme a sua necessidade.
 
-Feel free to modify the styles and content to suit your needs!
+---
+
+Feito com 💚
