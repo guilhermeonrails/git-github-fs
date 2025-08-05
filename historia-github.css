@@ -1,0 +1,67 @@
+.github-history {
+    background: #fff;
+    padding: 30px 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 14px rgba(0,0,0,0.08);
+    margin: 30px 0;
+}
+.github-history h2 {
+    color: #24292e;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.timeline {
+    position: relative;
+    margin: 0 auto 20px auto;
+    max-width: 600px;
+    padding-left: 20px;
+    border-left: 3px solid #4CAF50;
+}
+.timeline-item {
+    margin-bottom: 30px;
+    position: relative;
+}
+.timeline-year {
+    background: #4CAF50;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: -34px;
+    top: 0;
+    font-size: 1.1rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+    border: 3px solid #fff;
+}
+.timeline-content {
+    background: #f9f9f9;
+    padding: 16px 20px;
+    border-radius: 8px;
+    margin-left: 30px;
+    box-shadow: 0 1px 6px rgba(76,175,80,0.07);
+}
+.github-history-footer {
+    text-align: center;
+    font-style: italic;
+    color: #388e3c;
+    margin-top: 20px;
+}
+.voltar {
+    display: block;
+    margin: 30px auto 0 auto;
+    width: fit-content;
+    background: #4CAF50;
+    color: #fff;
+    padding: 10px 22px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.2s;
+}
+.voltar:hover {
+    background:
